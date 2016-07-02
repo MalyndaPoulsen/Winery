@@ -1,4 +1,4 @@
-body {
+/*body {
     padding: 0px;
     font-weight: 400;
     font-family: "Roboto", Helvetica Neue, Arial, sans-serif;
@@ -9,8 +9,8 @@ body {
     overflow: hidden;
     font-feature-settings: "liga", "kern";
     letter-spacing: 0.2px;
-}
-#status {
+}*/ 
+/*#status {
     width: 200px;
     height: 200px;
     position: absolute;
@@ -20,49 +20,49 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     margin: -100px 0 0 -100px;
-}
-.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+}*/
+/*.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
     border-color: #2e2e2e;
    
-} 
+} */
 
-.navbar {
+/*.navbar {
     position: relative;
     min-height: 96px;
     margin-bottom: 0px;
     border: 1px solid transparent;
-}
+}*/
 
 /*@media (min-width: 768px)*/
-.container > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-header, .container-fluid > .navbar-collapse {
+/*.container > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-header, .container-fluid > .navbar-collapse {
     margin-right: 0;
     margin-left: 0;
     position: fixed;
-}
+}*/
 
 /*@media (min-width: 768px)*/
-.navbar-collapse.collapse {
+/*.navbar-collapse.collapse {
     display: block !important;
     height: auto !important;
     padding-bottom: 0;
     overflow: visible !important;
-}
+}*/
 
 /*@media (min-width: 768px)*/
-.navbar-collapse {
+/*.navbar-collapse {
     width: auto;
     border-top: 0;
     box-shadow: none;
-}
+}*/
 
-.navbar-collapse {
+/*.navbar-collapse {
     overflow-x: visible;
     padding-right: 40px;
     padding-left: 40px;
     border-top: 1px solid transparent;
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
     -webkit-overflow-scrolling: touch;
-}
+}*/
 .collapse {
     display: none;
 }
@@ -78,6 +78,7 @@ body {
 }
 #navbar{
     position: fixed;
+
     z-index: 9999;
 }
 
@@ -92,7 +93,7 @@ body {
 }
 
 .navbar-header {
-    float: left;
+    float: right;
 }
 
 .container-fluid:before, .container-fluid:after {
@@ -104,14 +105,14 @@ body {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-.navbar-inverse .navbar-toggle {
+/*.navbar-inverse .navbar-toggle {
     border-color: #333;
-}
+}*/
 /*@media (min-width: 768px)*/
 .navbar-toggle {
     display: none;
 }
-.navbar-toggle {
+/*.navbar-toggle {
     position: relative;
     float: right;
     margin-right: 40px;
@@ -122,7 +123,7 @@ body {
     background-image: none;
     border: 1px solid transparent;
     border-radius: 4px;
-}
+}*/
 input, button, select, textarea {
     font-family: inherit;
     font-size: inherit;
@@ -138,11 +139,11 @@ button, select {
 button {
     overflow: visible;
 }
-button, input, optgroup, select, textarea {
+/*button, input, optgroup, select, textarea {
     color: inherit;
     font: inherit;
     margin: 0;
-}
+}*/
 .navbar-nav {
     float: right;
     margin: 0;
@@ -160,3 +161,4 @@ button, input, optgroup, select, textarea {
     margin-right: -40px;
 }
 /**/
+/*style="background-image: url(&quot;img/image-1-xl.jpg&quot;); background-size: cover; background-position: 50% 50%;"*/

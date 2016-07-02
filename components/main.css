@@ -1,6 +1,6 @@
    
    #main{
-        background-image: url("img/image-1-xl.jpg");
+        background-image: url("img/syringaflower.jpg");
     background-size: cover;
     background-position: 50% 50%;
 }
@@ -43,3 +43,13 @@ body {
     color: #303030;
     background-color: #171717;
 }
+#main{
+    background: url('img/vinyard.jpg'); 
+    background-size: cover; 
+    background-position: 50% 50%;
+   visibility: inherit; 
+   opacity: 1; 
+   background-image: repeat scroll 100% 0%;
+
+    }
+   
