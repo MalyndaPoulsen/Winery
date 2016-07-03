@@ -1,0 +1,48 @@
+  body{
+     overflow-y: hidden;
+  }
+/*nav{
+    margin-top:0;
+}*/
+#navbar{
+     z-index: 999;
+    position: fixed;
+    top: 5%;
+    right:1%;
+   text-align: right !important; 
+   margin-right: -15px;
+}
+#navbar a{
+    color: black;
+  text-decoration: none;
+}
+#navbar .btn{
+   float: right;
+    background: white;
+    color: black;
+    padding-right: 3px;
+    padding-left: 3px;
+    opacity: .5;
+}
+#navbar .btn:hover{
+     background: grey;
+     color: white;
+
+    padding-right: 3px;
+    padding-left: 3px;
+    opacity: .5;
+}
+.btn{
+    margin-top: 3%;
+    height: 30px;
+    float: right;
+    width: 70px;
+    /*text-align: center;*/
+  
+    
+}
+.navbar .row{
+position: fixed;
+ min-height: 0;
+margin-bottom: 0;
+}
