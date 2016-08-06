@@ -1,0 +1,25 @@
+#events{
+        background:grey url('/img/events.jpg') center center no-repeat fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+    height: 100%;
+}
+#events h2{
+    color: #b4a755;
+}
+#events p{
+    color: white;
+}
+#events .btn{
+background: #b4a755;
+color: black; 
+}
+#events .btn:hover{
+background: grey;
+color: black; 
+}
+#events{
+    text-align: center;
+}

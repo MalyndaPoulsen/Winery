@@ -1,0 +1,77 @@
+
+.wines h2{
+    margin-top: 15%;
+    padding-top: 0;
+    color: #b4a755;
+      font-family: 'Slabo 27px', serif;
+}
+.wines p{
+     font-family: 'Slabo 27px', serif;
+     color: grey; 
+     margin-bottom: 10%;
+     /*font-size: 1.5vw;*/
+}
+#logo{
+    margin-top: 8%;
+    padding-top: 0px;
+    width: 18%;
+    text-align: center;
+}
+#logo .btn{
+    margin-right: 13%;
+
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background: #b4a755;
+    color: white !important;
+}
+#logo .btn:hover{
+    background: grey;
+    color: white !important;
+}
+.wines img{
+    width: 100%;
+}
+/*#wines2{
+    padding: 0 0 0 0;
+    margin-left:-15px;
+    margin-right: -15px;
+}*/
+#wines{
+    margin-left: -15px;
+    margin-right: -15px;
+    padding-top: 0px;
+   padding-bottom: 20%;
+   background: black;
+}
+.thumbnail img{
+    margin-top: 25px;
+}
+.thumbnail{
+    border: 1px solid #b4a755;
+}
+.caption .btn{
+color: black;
+background-color: #b4a755;
+}
+.caption .btn:hover{
+color: white;
+background-color: darkgrey;
+}
+
+.thumbnail{
+    margin-right: 1%;
+}
+
+.module, .module-sm, .module-xs {
+    background-color: black;
+    background-attachment: fixed;
+    padding-top: 70px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

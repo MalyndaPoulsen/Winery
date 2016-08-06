@@ -1,17 +1,97 @@
    
-
+body, html{
+overflow-x: hidden;
+}
   #image{
       margin-right: -15px;
       padding-right: 0px !important;
   }
-  .title h1{
-    /*color: black;  */
+  #image img{
+      margin-bottom: 0px;
+      padding-bottom: 0px;
+  }
+  #main2{
+      position: relative;
+  }
+
+
+
+
+/*
+body {
+  font-family: sans-serif;
+  background: #222;
+  color: darkred;
+  }
+h1 {
+  -webkit-text-stroke-width: 2px;
+-webkit-text-stroke-color: #fff;
+}*/
+
+#main2 h3{
+      font-family: 'Satisfy', cursive;
+      font-size: 4vw;
+      margin-top: 5%;
+      margin-bottom: 0px;
+      z-index: 999;
+}
+
+#main2 h2{
+      -webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: #b4a755;
+      font-family: 'Slabo 27px', serif;
+      background-color: black;
+      color: white;
+      font-size: 10vw;
+      position: absolute;
+     text-align: left;
+      top: 90%;
+      left: 18%;
+      /*margin-bottom: -20px;*/
+margin-top: 5%;
+/*margin-left: -10px;
+padding-bottom: 0px;*/
+    z-index: 66;
+}
+#main2 span{
+    text-align: left;
+ letter-spacing: 8px;
+      font-family: 'Slabo 27px', serif;
+      color: white;
+      font-size: 30%;
+    padding-top: 0;
+      position: absolute;
+      top: 90%;
+      left: 1%;
+/*margin-top: -20px;
+margin-left: 0px;*/
+    z-index: 66;
+}
+  #main h1{
+ 
+   text-align: center;
     font-family: 'Mrs Saint Delafield', cursive; 
-    font-size: 420%; 
+    /*font-size: 60px; */
+    font-size: 13vw; 
     font-weight: 800px; 
+    margin-top: 12%; 
+    z-index: 9999;
     /*padding-top: 20%; */
     /*margin-bottom: 10%;*/
   }
+  #main p{
+      text-align: center;
+  }
+ 
+/*#main{
+    background:  url('/img/vinyard.jpg')center center no-repeat fixed;
+    height: 700px;
+   
+    height: 100%;
+    width: 100%;
+    z-index: 0;
+}*/
+
    /*#main{
     background-image: url("img/syringaflower.jpg");
     background-size: cover;
@@ -65,4 +145,22 @@
    background-image: repeat scroll 100% 0%;
 
     }*/
+   .scroll-down i{
+ 
    
+}
+#scroller .fa{
+ z-index: 9999;
+    position: absolute;
+    bottom: 65%;
+    left: 50%;
+    color: red;
+    margin-top: 5px;
+    margin-bottom: -5px;
+    padding: 5 5 5 5;
+}
+#scroller{
+    animation-duration: 2s;
+animation-delay: 2s;
+animation-iteration-count: 5;
+}

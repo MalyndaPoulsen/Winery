@@ -1,0 +1,40 @@
+#wineClub{
+    background:grey url('/img/winebottles2.jpg') center center no-repeat fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+    height: 100%;
+}
+#wineClub{
+    /*margin-top: 10%;*/
+    text-align: center;
+}
+.wineClub h2{
+      margin-top: 15%;
+    color: #b4a755;
+     font-family: 'Slabo 27px', serif;
+
+}
+.wineClub p{
+        font-family: 'Slabo 27px', serif;
+        color: lightgrey;
+        /*font-size: 2.5vw;*/
+}
+.wineClub .btn{
+       margin-bottom: 20%;
+    color: black;
+    background: #b4a755;
+    
+}
+/*.backImg{
+    position: absolute;
+    top: 14vw;
+    left: 25vw;
+    border-radius: 5px;
+    background: white;
+opacity: .5;
+height: 50%;
+width: 50%;
+
+}*/
