@@ -103,9 +103,11 @@ font-size: 3vw;
      font-family: 'Mrs Saint Delafield', cursive;
      color: grey;
      margin-top: 0px;
+     margin-bottom: 2px;
 }
 .me .fa{
     font-size: 2vw;
+     margin-bottom: 2px;
 }
 .me{
     font-family: 'Slabo 27px', serif;
