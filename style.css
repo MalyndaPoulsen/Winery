@@ -1,3 +1,4 @@
+  /*body { padding-bottom: 70px; }*/
   body{
      overflow-y: hidden;
   }
@@ -104,15 +105,7 @@ font-family: 'PT Sans', sans-serif;
     font-size: 1vw;
    
 }
-   /*#heading{
-       text-align:center;
-       padding-top:150px;
-   }*/
 
-/*navbar-right{
-  margin-right: 15px;
-  padding-right: 10px;
-}*/
 
 /*subnav*/
 #sub-nav{
@@ -196,11 +189,7 @@ padding-bottom: 5px;
 }
 
 
-/* On using dropdown menu (To right shift popuped) */
-/*.navbar-fixed-left .navbar-nav > li > .dropdown-menu {
-  margin-top: -50px;
-  margin-right: 140px;
-}*/
+
 
 /*perfect side navbar with buttons*/
 

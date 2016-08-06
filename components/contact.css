@@ -1,7 +1,5 @@
-#contact{
-    margin-bottom: 10%;
 
-}
+
 #contactback h2{
     margin-top: 10%;
     padding-top: 20%;
@@ -43,10 +41,26 @@
 }
 
 
+#contacts{
+    position: relative;
+    background: black;
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+  padding-top: 2px;
+}
+/*.me{
+    margin-bottom: 25%;
+}*/
 
-
-
-
+.me{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+#fas{
+    text-align: center;
+}
 .end{
     width: 100%;
     background: black;
@@ -56,8 +70,11 @@
      z-index: 88;
     top: 350%;
      left: 0%;
-     /*text-align: center;*/
+     text-align: center;
 
+}
+.end>div{
+    text-align: center;
 }
 form{
     padding-top: 10%;
@@ -72,10 +89,11 @@ form{
 
 }
 .end .fa{
-   
 font-size: 3vw;
- padding-right: 2vw;
+ padding-right: 1vw;
+  padding-left: 1vw;
 }
+
 #address{
     border-left: 1px solid grey;
      border-right: 1px solid grey;
@@ -92,6 +110,8 @@ font-size: 3vw;
 .me{
     font-family: 'Slabo 27px', serif;
     text-align: center;
+   /*margin-bottom: 5%;*/
+   
 }
 #contacts{
     text-align: center;
