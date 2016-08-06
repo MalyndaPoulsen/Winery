@@ -17,7 +17,18 @@
                 });
             }
         });
-    $('#me').animateCss('slideInLeft')
+    $('#plumbbob').animateCss('bounceInDown')
     $('#scroller').animateCss('flash');
+
+
+
+
+
+
+
+
     }
+
 } ())
+
+ 

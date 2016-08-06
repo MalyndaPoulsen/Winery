@@ -164,3 +164,8 @@ animation-duration: 2s;
 animation-delay: 2s;
 animation-iteration-count: 5;
 }
+#plumbbob{
+animation-duration: 1s;
+animation-delay: 0s;
+animation-iteration-count: 1;
+}
