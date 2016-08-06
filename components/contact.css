@@ -1,5 +1,5 @@
 #contact{
-    margin-top: 10%;
+    margin-bottom: 10%;
 
 }
 #contactback h2{
@@ -31,4 +31,52 @@
 #contactback h5{
     color: grey;
       font-family: 'Slabo 27px', serif;
+}
+#contact2{
+    margin-top: 20%;
+}
+.end{
+    width: 100%;
+    background: black;
+    color:  #b4a755;
+     font-family: 'Slabo 27px', serif;
+     /*margin-left: -15px;
+     margin-right: -30px;
+     padding-right: 0px;
+     padding-left: 0px;*/
+     position: absolute;
+    top: 350%;
+     left: 0%;
+
+}
+.row{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.end p, i{
+      font-family: 'Slabo 27px', serif;
+    margin-top: 2vw;
+
+}
+.end .fa{
+   
+font-size: 3vw;
+ padding-right: 2vw;
+}
+#address{
+    border-left: 1px solid grey;
+     border-right: 1px solid grey;
+}
+.me{
+    font-family: 'Slabo 27px', serif;
+    text-align: center;
+}
+.me a{
+    font-size: 2vw;
+     font-family: 'Mrs Saint Delafield', cursive;
+     color: lightgrey;
+     margin-top: 0px;
+}
+.me .fa{
+    font-size: 1vw;
 }

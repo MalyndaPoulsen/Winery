@@ -14,7 +14,9 @@ overflow-x: hidden;
       position: relative;
   }
 
-
+#row{
+    position: relative;
+}
 
 
 /*
@@ -78,7 +80,7 @@ margin-left: 0px;*/
     z-index: 9999;
     /*padding-top: 20%; */
     /*margin-bottom: 10%;*/
-  }*/*/
+  /*/
   #main p{
       text-align: center;
   }
@@ -149,15 +151,16 @@ margin-left: 0px;*/
 #scroller .fa{
  z-index: 9999;
     position: absolute;
-    bottom: 65%;
+    bottom: -80%;
     left: 50%;
-    color: red;
-    margin-top: 5px;
+    font-size: 4vw;
+    color: white;
+    /*margin-top: 5px;
     margin-bottom: -5px;
-    padding: 5 5 5 5;
+    padding: 5 5 5 5;*/
 }
 #scroller{
-    animation-duration: 2s;
+animation-duration: 2s;
 animation-delay: 2s;
 animation-iteration-count: 5;
 }
