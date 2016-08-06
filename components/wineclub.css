@@ -26,16 +26,35 @@
        margin-bottom: 20%;
     color: black;
     background: #b4a755;
+    border: none;
     
 }
-/*.backImg{
-    position: absolute;
-    top: 14vw;
-    left: 25vw;
-    border-radius: 5px;
-    background: white;
-opacity: .5;
-height: 50%;
-width: 50%;
+.wineClub .btn:hover{
+       margin-bottom: 20%;
+    color: white;
+    background: #b4a766;
+    border: none;
+    
+}
+.wineClub .btn:active{
+       margin-bottom: 20%;
+    color: white;
+    background: #b4a766;
+    border: none;
+    
+}
 
-}*/
+.modal-body .form-horizontal .col-sm-2,
+.modal-body .form-horizontal .col-sm-10 {
+    width: 100%
+}
+
+.modal-body .form-horizontal .control-label {
+    text-align: left;
+}
+.modal-body .form-horizontal .col-sm-offset-2 {
+    margin-left: 15px;
+}
+.modal-header p{
+    color: grey;
+}
