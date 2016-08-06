@@ -1,0 +1,34 @@
+#contact{
+    margin-top: 10%;
+
+}
+#contactback h2{
+    padding-top: 20%;
+    color: #b4a755;
+    font-family: 'Slabo 27px', serif;
+  
+}
+#contactback{
+    text-align: center;
+}
+.form-group .btn{
+    background: #b4a755;
+    color: black;
+    border: none;
+}
+.form-group .btn:hover{
+    background: black;
+    color: white;
+    border: none;
+}
+.bar{
+    position: relative;
+    top: 0vw;
+    left: 0vw;
+    background: white;
+    height: 40%;
+}
+#contactback h5{
+    color: grey;
+      font-family: 'Slabo 27px', serif;
+}
