@@ -42,6 +42,7 @@
 
 
 #contacts{
+    height: 25%;
     position: relative;
     background: black;
   padding-bottom: 20px;
