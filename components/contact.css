@@ -100,7 +100,7 @@ font-size: 3vw;
      border-right: 1px solid grey;
 }
 .me a{
-    font-size: 2vw;
+    font-size: 3vw;
      font-family: 'Mrs Saint Delafield', cursive;
      color: grey;
      margin-top: 0px;
@@ -113,7 +113,7 @@ font-size: 3vw;
 .me{
     font-family: 'Slabo 27px', serif;
     text-align: center;
-    font-size: 3vw;
+    font-size: 2vw;
    /*margin-bottom: 5%;*/
    
 }
