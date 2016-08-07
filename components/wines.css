@@ -111,7 +111,7 @@ background-color: darkgrey;
 	border-right: 110vw solid transparent;
 
 }
-#triangle-topleft5 {
+/*#triangle-topleft5 {
   position: absolute;
    z-index: 5;
   top: 40.5vw;
@@ -122,4 +122,4 @@ background-color: darkgrey;
 	height: 0;
 	border-bottom: 20vw solid black;
 	border-left: 110vw solid transparent;
-}
+}*/
