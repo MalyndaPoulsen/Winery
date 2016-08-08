@@ -62,6 +62,10 @@
 #fas{
     text-align: center;
 }
+#fas i, a{
+    background-color:  #b4a755;
+    color:  #b4a755;
+}
 .end{
     width: 100%;
     background: black;
