@@ -60,6 +60,11 @@ body {
 @media only screen and (min-device-width: 400px) {
     #shop{ 
         background-image: url('/Winery/img/winebottles3.jpg'); 
+         -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+    height: 100%;
     }
 }
  /*#shop{
