@@ -15,9 +15,7 @@
     -o-background-size: cover;
     background-size: cover;
 }
-#shop{
-    position: relative;
-}
+
 body {
     background: white;
      font-family: 'Slabo 27px', serif;
@@ -53,6 +51,7 @@ body {
  -moz-background-size: cover;
  -o-background-size: cover;
  background-size: cover;
+ position: fixed;
    height: 100%;
   
 }
@@ -66,6 +65,7 @@ body {
  -o-background-size: cover;
  background-size: cover;
     height: 100%;
+    position: fixed;
     }
 }
  /*#shop{
