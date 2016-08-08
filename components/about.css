@@ -47,27 +47,19 @@ body {
    color: white;
    margin-bottom: 0px;
 }
-#shop {
- background-image:black url('/Winery/img/plumb2.jpg') center center no-repeat fixed;
- -webkit-background-size: 100%;
- -moz-background-size: 100%;
- -o-background-size: 100%;
- background-size: 100%;
+#shop{
+    background-image:black url('/Winery/img/winebottles2.jpg') center center no-repeat fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
     height: 100%;
-    text-align: center;
 }
 
 /* For devices 400px and larger: */
 @media only screen and (min-device-width: 400px) {
-    #shop { 
-background-image:black url('/Winery/img/plumb2.jpg') center center no-repeat fixed;
- -webkit-background-size: 100%;
- -moz-background-size: 100%;
- -o-background-size: 100%;
- background-size: 100%;
-    height: 100%;
- 
-    text-align: center;
+    #shop{ 
+        background-image: url('/Winery/img/winebottles3.jpg'); 
     }
 }
  /*#shop{
