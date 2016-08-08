@@ -8,7 +8,7 @@
 }
 
  /*For devices 400px and larger: */
-@media only screen and (min-device-width: 500px) {
+@media only screen and (min-device-width: 100px) {
     #wineClub { 
         background-image: url('/Winery/img/winebottles2.jpg')center center no-repeat fixed; 
          -webkit-background-size: cover;
