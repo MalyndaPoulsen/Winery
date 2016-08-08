@@ -49,11 +49,11 @@ body {
 }
 
  #shop{
-         background:black url('/Winery/img/plumb2.jpg') center center no-repeat fixed;
- -webkit-background-size: cover;
- -moz-background-size: cover;
- -o-background-size: cover;
- background-size: cover;
+         background-image:black url('/Winery/img/plumb2.jpg') center center no-repeat fixed;
+ -webkit-background-size: contain;
+ -moz-background-size: contain;
+ -o-background-size: contain;
+ background-size: contain;
     width: 100%;
     height: auto;
     text-align: center;
