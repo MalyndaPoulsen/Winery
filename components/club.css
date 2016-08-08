@@ -18,12 +18,14 @@
  background-size: cover;
     height: 100%;
     }
+    .navbar-header{
+        display: block;
+    }
 }
-@media only screen and (max-device-width: 600px) {
+
 .navbar-header{
         display: none !important;
     }
-}
 
 
 #wineClub{
