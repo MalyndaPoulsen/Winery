@@ -48,7 +48,7 @@ body {
    margin-bottom: 0px;
 }
 
- #shop{
+ /*#shop{
          background-image:black url('/Winery/img/plumb2.jpg') center center no-repeat fixed;
  -webkit-background-size: 100%;
  -moz-background-size: 100%;
@@ -57,7 +57,7 @@ body {
     height: 100%;
  
     text-align: center;
- }
+ }*/
  #shop h1{
         font-family: 'Satisfy', cursive;
       font-size: 4vw;
