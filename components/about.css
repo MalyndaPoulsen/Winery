@@ -51,21 +51,18 @@ body {
  -moz-background-size: cover;
  -o-background-size: cover;
  background-size: cover;
-
    height: 100%;
   
 }
 
 /* For devices 400px and larger: */
-@media only screen and (min-device-width: 600px) {
+@media only screen and (min-device-width: 700px) {
     #shop{ 
         background: url('/Winery/img/plumb2.jpg') center center no-repeat fixed; 
          -webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
  background-size: cover;
-    height: 100%;
-
     }
 }
  /*#shop{
