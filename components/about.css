@@ -57,7 +57,7 @@ body {
 }
 
 /* For devices 400px and larger: */
-@media only screen and (min-device-width: 400px) {
+@media only screen and (min-width: 400px) {
     #shop{ 
         background: url('/Winery/img/winebottles3.jpg'); 
          -webkit-background-size: cover;
