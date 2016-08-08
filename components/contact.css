@@ -66,16 +66,13 @@
     color:  #b4a755;
 }
 .end{
-    width: 100%;
     background: black;
     color:  #b4a755;
-    height: 30%;
-     font-family: 'Slabo 27px', serif;
-     z-index: 88;
+    font-family: 'Slabo 27px', serif;
+    z-index: 88;
     top: 350%;
-     left: 0%;
-     text-align: center;
-
+    left: 0%;
+    text-align: center;
 }
 /*.end>div{
     text-align: center;
