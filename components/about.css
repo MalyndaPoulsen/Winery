@@ -55,7 +55,7 @@ body {
  -o-background-size: contain;
  background-size: contain;
     width: 100%;
-    height: auto;
+    height: 400px;
     text-align: center;
  }
  #shop h1{
