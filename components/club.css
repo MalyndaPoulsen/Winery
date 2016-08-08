@@ -1,5 +1,5 @@
 #wineClub{
-    background-image:black url('/Winery/img/winebottles2.jpg') center center no-repeat fixed;
+    background:black url('/Winery/img/winebottles2.jpg') center center no-repeat fixed;
  -webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;

@@ -48,7 +48,7 @@ body {
    margin-bottom: 0px;
 }
 #shop{
-    background-image:black url('/Winery/img/winebottles2.jpg') center center no-repeat fixed;
+    background:black url('/Winery/img/winebottles2.jpg') center center no-repeat fixed;
  -webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
@@ -59,7 +59,7 @@ body {
 /* For devices 400px and larger: */
 @media only screen and (min-device-width: 400px) {
     #shop{ 
-        background-image: url('/Winery/img/winebottles3.jpg'); 
+        background: url('/Winery/img/winebottles3.jpg'); 
          -webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
