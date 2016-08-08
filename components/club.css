@@ -8,7 +8,7 @@
 }
 
 .navbar-header{
-        display: none;
+        display: none !important;
     }
 
  /*For devices 400px and larger: */
@@ -22,7 +22,7 @@
     height: 100%;
     }
     .navbar-header{
-        display: block;
+        display: block !important;
     }
 }
 
