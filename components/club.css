@@ -18,7 +18,7 @@
 /* For devices 400px and larger: */
 @media only screen and (min-width: 400px) {
     #wineClub{ 
-        background: url('/Winery/img/winebottles2.jpg'); 
+        background: url('/Winery/img/winebottles2.jpg') center center no-repeat fixed; 
          -webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
