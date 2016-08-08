@@ -18,6 +18,9 @@
  background-size: cover;
     height: 100%;
     }
+    .nav{
+        display: none;
+    }
 }
 
 #wineClub{
