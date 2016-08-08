@@ -54,7 +54,7 @@ body {
  -o-background-size: cover;
  background-size: cover;
    height: 100%;
-    width: auto;
+  
 }
 
 /* For devices 400px and larger: */
