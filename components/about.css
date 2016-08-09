@@ -45,7 +45,7 @@ body {
    color: white;
    margin-bottom: 0px;
 }
-/*#shop{
+#shop{
     background:black url('/Winery/img/plumb3.jpg') center center no-repeat fixed;
  -webkit-background-size: cover;
  -moz-background-size: cover;
@@ -57,7 +57,7 @@ body {
 
 
  /*For devices 400px and larger: */
-/*@media only screen and (min-width: 980px) {
+@media only screen and (min-width: 981px) {
     #shop{ 
         background: url('/Winery/img/plumb2.jpg') center center no-repeat fixed; 
          -webkit-background-size: cover;
@@ -65,7 +65,7 @@ body {
  -o-background-size: cover;
  background-size: cover;
     }
-}*/*/
+}
 
 
 
