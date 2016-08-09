@@ -55,7 +55,7 @@ body {
   
 }
 
-/* For devices 400px and larger: */
+ /*For devices 400px and larger: 
 @media only screen and (min-width: 980px) {
     #shop{ 
         background: url('/Winery/img/plumb2.jpg') center center no-repeat fixed; 
@@ -64,7 +64,7 @@ body {
  -o-background-size: contain;
  background-size: contain;
     }
-}
+}*/
 
 
 
