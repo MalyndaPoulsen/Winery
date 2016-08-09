@@ -61,7 +61,7 @@ body {
     #shop{ 
         background: url('/Winery/img/plumb2.jpg') center center no-repeat fixed; 
          -webkit-background-size: contain;
- -moz-background-size: cotain;
+ -moz-background-size: contain;
  -o-background-size: contain;
  background-size: contain;
     }
