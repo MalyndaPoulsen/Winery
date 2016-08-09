@@ -1,20 +1,20 @@
 #wineClub{
-    background:black url('/Winery/img/winebottles3.jpg') center center no-repeat fixed;
- -webkit-background-size: cover;
- -moz-background-size: cover;
- -o-background-size: cover;
- background-size: cover;
-    height: 100%;
+        background:black url('/Winery/img/winebottles3.jpg') center center no-repeat fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        height: 100%;
 }
 
  /*For devices 400px and larger: */
-@media only screen and (min-device-width: 100px) {
+@media only screen and (min-device-width: 700px) {
     #wineClub { 
         background-image: url('/Winery/img/winebottles2.jpg')center center no-repeat fixed; 
          -webkit-background-size: cover;
- -moz-background-size: cover;
- -o-background-size: cover;
- background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
     }
 }
 
