@@ -76,7 +76,7 @@ margin-left: 0px;*/
 #main{
     	background: url('/Winery/img/PeteVinyard.jpg') center center no-repeat fixed;
         
-        background: cover; 
+        background-size: cover; 
         width: 100%; 
         position: fixed; 
         margin-right: -15px; 
