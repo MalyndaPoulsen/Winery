@@ -101,7 +101,7 @@ and (max-device-width : 736px) {
 
 /* Regular smart phones, including iPhone 6 + with 414px viewport! */
 @media screen and (min-width: 321px) {#shop{
-    background:black url('/Winery/img/plumb3.jpg') center center no-repeat fixed;
+    background:black url('/Winery/img/plumb5.jpg') center center no-repeat fixed;
  -webkit-background-size: cover;
  -moz-background-size: cover;
  -o-background-size: cover;
