@@ -1,9 +1,5 @@
-   
 body, html{
 overflow-x: hidden;
-}
-#image img{
-    margin-top: 0px;
 }
   #image{
       margin-right: -15px;
@@ -20,22 +16,7 @@ overflow-x: hidden;
 #row{
     position: relative;
 }
-#image{
-     background: url('/img/vinyard2.jpg') center center no-repeat fixed; 
-     z-index: -22;
-      -webkit-background-size: cover;
- -moz-background-size: cover;
- -o-background-size: cover;
- background-size: cover;
-   height: 100%;
-    position: relative;
-      text-align: center;
-      margin-right: -15px; 
-      margin-bottom: -15px; 
-      padding-bottom: 0px;
-      top: 0%;
-      left: 0%;
-}
+
 
 /*
 body {
@@ -87,20 +68,6 @@ padding-bottom: 0px;*/
 margin-left: 0px;*/
     z-index: 66;
 }
-
-/*#row{
-    	background: url('/Winery/img/PeteVinyard.jpg') center center no-repeat fixed;
-        z-index: 22;
-        background-size: cover; 
-        width: 100%; 
-     
-        margin-right: -15px; 
-        margin-bottom: -15px; 
-        padding-bottom: 0px;
-			
-}*/
-
-
   /*#main h1{
  
    text-align: center;
@@ -177,7 +144,6 @@ margin-left: 0px;*/
    visibility: inherit; 
    opacity: 1; 
    background-image: repeat scroll 100% 0%;
-
     }*/
 
 #scroller .fa{
