@@ -76,7 +76,7 @@ and (max-device-width : 736px) {
     }
 }*/
 
-#shop{
+/*#shop{
     background:black url('/Winery/img/plumb2.jpg') center center no-repeat fixed;
  -webkit-background-size: cover;
  -moz-background-size: cover;
@@ -84,7 +84,7 @@ and (max-device-width : 736px) {
  background-size: cover;
    height: 100%;
   
-}
+}*/
 
 /* Really small phones */
 @media screen and (max-width:320px) {
