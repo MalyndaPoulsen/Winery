@@ -45,7 +45,30 @@ body {
    color: white;
    margin-bottom: 0px;
 }
-#shop{
+/*#shop{
+    background:black url('/Winery/img/plumb3.jpg') center center no-repeat fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+   height: 100%;
+  
+}*/
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  { 
+    #shop{
+    background:black url('/Winery/img/plumb2.jpg') center center no-repeat fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+   height: 100%;}
+}
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) { 
+    #shop{
     background:black url('/Winery/img/plumb3.jpg') center center no-repeat fixed;
  -webkit-background-size: cover;
  -moz-background-size: cover;
@@ -54,9 +77,9 @@ body {
    height: 100%;
   
 }
+}
 
-
- /*For devices 400px and larger: */
+ /*For devices 400px and larger: 
 @media only screen and (min-width: 981px) {
     #shop{ 
         background: url('/Winery/img/plumb2.jpg') center center no-repeat fixed; 
@@ -65,7 +88,7 @@ body {
  -o-background-size: cover;
  background-size: cover;
     }
-}
+}*/
 
  #shop h1{
         font-family: 'Satisfy', cursive;
