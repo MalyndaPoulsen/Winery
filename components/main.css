@@ -20,7 +20,22 @@ overflow-x: hidden;
 #row{
     position: relative;
 }
-
+#image{
+     background: url('/img/vinyard2.jpg') center center no-repeat fixed; 
+     z-index: -22;
+      -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+   height: 100%;
+    position: relative;
+      text-align: center;
+      margin-right: -15px; 
+      margin-bottom: -15px; 
+      padding-bottom: 0px;
+      top: 0%;
+      left: 0%;
+}
 
 /*
 body {
