@@ -1,6 +1,9 @@
 body, html{
 overflow-x: hidden;
 }
+#image img{
+    margin-top: 0px;
+}
   #image{
       margin-right: -15px;
       padding-right: 0px !important;
@@ -68,6 +71,20 @@ padding-bottom: 0px;*/
 margin-left: 0px;*/
     z-index: 66;
 }
+
+/*#row{
+    	background: url('/Winery/img/PeteVinyard.jpg') center center no-repeat fixed;
+        z-index: 22;
+        background-size: cover; 
+        width: 100%; 
+     
+        margin-right: -15px; 
+        margin-bottom: -15px; 
+        padding-bottom: 0px;
+			
+}*/
+
+
   /*#main h1{
  
    text-align: center;
