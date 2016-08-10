@@ -72,6 +72,20 @@ padding-bottom: 0px;*/
 margin-left: 0px;*/
     z-index: 66;
 }
+
+#main{
+    	background: url('img/PeteVinyard.jpg') center center no-repeat fixed;
+        z-index: -22; 
+        background: cover; 
+        width: 100%; 
+        position: fixed; 
+        margin-right: -15px; 
+        margin-bottom: -15px; 
+        padding-bottom: 0px;
+			
+}
+
+
   /*#main h1{
  
    text-align: center;
