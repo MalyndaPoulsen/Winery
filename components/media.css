@@ -1,12 +1,3 @@
-#shop{
-    background:black url('/Winery/img/plumb2.jpg') center center no-repeat fixed;
- -webkit-background-size: cover;
- -moz-background-size: cover;
- -o-background-size: cover;
- background-size: cover;
-   height: 100%;
-  
-}
 /*Ipad */
 /*@media only screen 
 and (min-device-width : 414px) 
@@ -79,4 +70,14 @@ and (max-device-width : 736px) {
  -o-background-size: cover;
  background-size: cover;
     }
+}*/
+
+/*#shop{
+    background:black url('/Winery/img/plumb2.jpg') center center no-repeat fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+   height: 100%;
+  
 }*/
