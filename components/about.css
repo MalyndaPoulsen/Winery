@@ -67,19 +67,6 @@ body {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
  #shop h1{
         font-family: 'Satisfy', cursive;
       font-size: 4vw;
@@ -101,5 +88,5 @@ body {
     height: 57vw;
     position: absolute;
     right: 50%;
-    top: -38vw;
+    top: 0vw;
  }
