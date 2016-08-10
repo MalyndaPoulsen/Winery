@@ -87,7 +87,7 @@ and (max-device-width : 736px) {
 }
 
 /*ipone 6 plus*/
-@media screen and (max-width:736px), screen and (max-width:736px) {
+@media screen and (min-width : 414px), screen and (max-width:736px) {
        #shop{
     background:black url('/Winery/img/plumb3.jpg') center center no-repeat fixed;
  -webkit-background-size: cover;
