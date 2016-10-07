@@ -46,7 +46,7 @@ body {
    margin-bottom: 0px;
 }
 
-#shop{
+/*#shop{
     background:black url('/Winery/img/plumb5.jpg') center center no-repeat fixed;
  -webkit-background-size: cover;
  -moz-background-size: cover;
@@ -54,9 +54,9 @@ body {
  background-size: cover;
    height: 100%;
   
-}
+}*/
 /*Ipad */
-@media only screen 
+/*@media only screen 
 and (min-device-width : 414px) 
 and (max-device-width : 736px) { 
     #shop{
@@ -66,11 +66,11 @@ and (max-device-width : 736px) {
  -o-background-size: cover;
  background-size: cover;
    height: 100%;}
-}
+}*/
 
 
 /*ipad*/
-@media only screen 
+/*@media only screen 
 and (min-device-width : 768px) 
 and (max-device-width : 1024px) 
  { 
@@ -81,10 +81,10 @@ and (max-device-width : 1024px)
  -o-background-size: cover;
  background-size: cover;
    height: 100%;}
-}
+}*/
 
 /*iphone 6*/
-@media only screen 
+/*@media only screen 
 and (min-device-width : 375px) 
 and (max-device-width : 667px) { 
     #shop{
@@ -95,11 +95,11 @@ and (max-device-width : 667px) {
  background-size: cover;
    height: 100%;
   
-}
-}
+}*/
+/*}*/
 
 /*ipone 6 plus*/
-@media only screen 
+/*@media only screen 
 and (min-device-width : 414px) 
 and (max-device-width : 736px) {     
     #shop{
@@ -111,7 +111,7 @@ and (max-device-width : 736px) {
    height: 100%;
   
 }
-}
+}*/
 
  /*For devices 400px and larger: 
 @media only screen and (min-width: 981px) {
