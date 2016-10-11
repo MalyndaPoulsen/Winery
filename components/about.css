@@ -145,5 +145,5 @@ and (max-device-width : 736px) {
     height: 57vw;
     position: absolute;
     right: 50%;
-    top: 0vw;
+    top: 10px;
  }
